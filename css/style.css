@@ -1,0 +1,52 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.headerimg {
+	background: url(../img/md_blog.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+i.48pxnav {
+	height: 48px;
+	line-height: 48px;
+}
+
+nav ul a {
+	color: #555;
+}
+
+.bordered {
+    border-color: #ccc;
+    border-left-style: solid;
+    border-width: 0.7px;
+}
+
+.tabsbody {
+	margin-top: 21px;
+	background-color: #fcfcfc;
+}
+
+.nopadding {
+	padding: 0;
+}
+
+.card-action {
+	background-color: #fafafa;
+}
+
+.tabs .indicator {
+	background-color: #FD6250;
+}
