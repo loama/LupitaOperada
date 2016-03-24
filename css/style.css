@@ -50,3 +50,8 @@ nav ul a {
 .tabs .indicator {
 	background-color: #FD6250;
 }
+
+.navapp {
+	position: absolute;
+	top: 140px;
+}
